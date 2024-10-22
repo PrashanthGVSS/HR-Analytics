@@ -1,0 +1,11 @@
+Data Import and Cleaning: The HR dataset was imported into Power BI, where initial cleaning was done by handling missing values, correcting data types, and creating calculated columns where necessary.
+
+Data Transformation: Key transformations were performed using Power Query for aggregating data, creating relationships between tables, and ensuring the dataset was ready for analysis.
+
+DAX Measures for Insights:
+Retention Rate: Created a DAX measure to calculate the employee retention rate based on tenure and department.
+Performance Score: Developed a measure to calculate performance scores, based on factors like completed projects, department goals, and KPIs.
+Attrition Probability: Built a measure to evaluate the probability of employee attrition, considering key factors such as tenure, salary, and job satisfaction levels.
+
+Visualizations: Power BI visuals like bar charts, line graphs, and matrix tables were used to display trends in employee retention, attrition, and performance over time.
+Interactivity and Drill-Down: Implemented drill-down features for department-specific analysis and interactive filters for analyzing data by job role, salary bands, and other dimensions.
